@@ -1,5 +1,4 @@
-# 2. Fix Docker
-# HotFix
+# 2. Fix und Featuer Dockerfile
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
